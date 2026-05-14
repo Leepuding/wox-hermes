@@ -1,0 +1,11 @@
+[project]
+name = "wox-hermes"
+version = "0.1.0"
+description = "Wox plugin bridge for Hermes Agent"
+requires-python = ">=3.10"
+dependencies = [
+  "wox-plugin>=0.0.73",
+]
+
+[tool.uv]
+package = false

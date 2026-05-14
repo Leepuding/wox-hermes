@@ -1,0 +1,29 @@
+{
+  "Id": "95d041d3-be7e-4b20-8517-88dda2db280b",
+  "TriggerKeywords": [
+    "hermes",
+    "h"
+  ],
+  "Name": "Hermes",
+  "Description": "Send commands from Wox to a local Hermes Agent API server.",
+  "Author": "leepudding",
+  "Version": "0.1.0",
+  "MinWoxVersion": "2.0.0",
+  "Runtime": "python",
+  "Website": "https://github.com/NousResearch/hermes-agent",
+  "Entry": "main.py",
+  "Icon": "relative:images/app.svg",
+  "SupportedOS": [
+    "darwin",
+    "windows",
+    "linux"
+  ],
+  "Features": [
+    {
+      "Name": "debounce",
+      "Params": {
+        "IntervalMs": 300
+      }
+    }
+  ]
+}

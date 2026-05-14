@@ -1,5 +1,7 @@
 # Wox Hermes
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 Wox Hermes is a Wox plugin that turns Wox into a fast command entrance for
 Hermes Agent.
 
